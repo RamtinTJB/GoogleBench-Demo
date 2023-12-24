@@ -3,7 +3,7 @@ CMake project starter code to use the Google Benchmark library
 
 ## Build and Run
 
-Run the following commands. The only requiremenets are `CMake` version 3.14+ and a C++ compiler with C++14 support.
+Run the following commands. The only requirements are `CMake` version 3.14+ and a C++ compiler with C++14 support.
 ```bash
 git clone https://github.com/RamtinTJB/GoogleBench-Demo
 cd GoogleBench-Demo
