@@ -7,7 +7,7 @@ Run the following commands. The only requirements are `CMake` version 3.14+ and 
 ```bash
 git clone https://github.com/RamtinTJB/GoogleBench-Demo
 cd GoogleBench-Demo
-CMake -B build
+cmake -B build
 cd build
 make
 ```
